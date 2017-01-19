@@ -6,10 +6,17 @@ Example:
 
 Add a note:
 ```bash
-node app.js add --title "title" --body "body"
+node app.js add -t "title" -b "body"
 ```
-
+Read a note: 
+```bash
+node app.js read -t "title"
+```
 Remove a note:
 ```bash
-node app.js remove --title "title"
+node app.js remove -t "title"
+```
+List all notes:
+```bash
+node app.js list
 ```
