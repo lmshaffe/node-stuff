@@ -1,11 +1,15 @@
 # weather-app
 Get the current temperature for a location.
 
+
 Playing with asynchronous functions with the use of callbacks and promise chains.
 
 There are two versions of the app. One is done using callbacks and the other is done using promises.
 
 
+**If running app-promise.js replace apiKey in app-promise.js**
+
+**If running app-callback.js replace apiKey in weather/weather.js**
 
 Example:
 
