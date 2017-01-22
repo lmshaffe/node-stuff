@@ -10,6 +10,8 @@ I'll be publishing some node exercises I do on my free time to this repo startin
 
 ``node-tests:`` Exploring testing frameworks of node. I'm using Mocha, Expect, and Rewire in these. I explore asynchronous call testing and creating spies
 
+``node-todo-api`` Basic API service for a todo list app. Uses mongoose, body-parser, lodash, and express. For tests, I am using mocha, expect, and supertest.
+
 
 
 ES6 will try to be used where applicable.
