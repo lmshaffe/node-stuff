@@ -21,13 +21,13 @@ Basic API for a todo app that implements a user login system and authentication 
     text: "Mow the lawn",
     completed: false,
     completedAt: null,
-    _creator: ObjectID(588511ab88cc370041e4fa80)
+    _creator: ObjectID('588511ab88cc370041e4fa80')
   },
   {
     text: "Take out the trash",
     completed: true,
     completedAt: 1485051437005,
-    _creator: ObjectID(588511ab88cc370041e4fa80)
+    _creator: ObjectID('588511ab88cc370041e4fa80')
   }]
 }
 ```
